@@ -1,0 +1,10 @@
+*.log
+*.jou
+*.str
+*.pb
+*.cache
+*.hw
+*.runs
+*.srcs
+*.data
+*.xpr
